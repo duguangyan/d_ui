@@ -20,7 +20,6 @@ export default {
   },
   created () {
     document.title = '基础组件'
-    
   },
   methods: {
     reload () {
